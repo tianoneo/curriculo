@@ -1,9 +1,9 @@
 @charset "UTF-8"
                 
         p{
-         color:blue;
-        text-align:justify;
-        text-indent:50px;
+	text-align: justify;
+	text-indent: 50px;
+	}
         }
         body{
         color:black;
