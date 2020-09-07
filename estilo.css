@@ -1,7 +1,5 @@
 @charset "UTF-8"
 
-        h1,h2{
-        color:black;
-        text-shadow: 2px 2px 2px blue;
-}
-   
+        body{
+        backgroud-color: blue;
+        }
