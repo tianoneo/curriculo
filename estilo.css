@@ -1,5 +1,15 @@
 @charset "UTF-8"
-
+        
+        p{
+        text-align:justify;
+        text-indent:20px;
+        }
         body{
-        backgroud-color: blue;
+        color:black;
+        }
+        h1{
+        text-shadow: 2px 2px 2px blue;
+        }
+        h2 {
+        color:blue
         }
