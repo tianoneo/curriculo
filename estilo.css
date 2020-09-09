@@ -1,5 +1,8 @@
 @charset "UTF-8";
-                
+
+	body {
+	background-image:url("fundobranco.jpg");
+	}                
         p{
 	text-align: justify;
 	text-indent: 20px;
