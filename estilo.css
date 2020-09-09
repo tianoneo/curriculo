@@ -1,15 +1,13 @@
 @charset "UTF-8";
 
-	body {
-	background-image:url("fundobranco.jpg");
-	width:100%;
-	}                
-        p{
+	p{
 	text-align: justify;
 	text-indent: 20px;
 	}
         body{
-        color:black;
+        color:white
+	background-image:url("fundopreto.png"
+	width:100%;
         }
         h1{
         text-shadow: 2px 2px 2px blue;
