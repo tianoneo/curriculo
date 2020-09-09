@@ -6,6 +6,8 @@
 	}
         body{
         color:white;
+	background-image:url("fundopreto.png");	
+	background-size: 100%;
         }
         h1{
         text-shadow: 2px 2px 2px blue;
