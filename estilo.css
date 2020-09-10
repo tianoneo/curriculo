@@ -23,6 +23,6 @@
 	}
 	
 	figure.foto-principal figcaption {
-	position relative;
+	position absolute;
 	}
 
