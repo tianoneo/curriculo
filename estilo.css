@@ -18,6 +18,11 @@
         }
      
 
-figure.foto-principal {
-position:relative;
-}
+	figure.foto-principal {
+	position:relative;
+	}
+	
+	figure.foto-principal figcaption {
+	position relative;
+	}
+
