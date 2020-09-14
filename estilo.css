@@ -18,6 +18,7 @@
         }
 	figure.foto-principal {
 	position:relative;
+	left: 200px;
 	}
 	figure.foto-principal figcaption {
 	position absolute;
