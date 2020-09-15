@@ -19,5 +19,6 @@
 header#cabecalho p {
 text-decoration: uppercase;
 color: blue;
-box-shadow: 2px 2px 3px green; 
+text-shadow: 2px 2px 3px green; 
+font-size: 30px;
 }
