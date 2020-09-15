@@ -16,11 +16,4 @@
         color:blue;
         text-shadow: 5px 5px 10px blue;
         }
-	figure.foto-principal {
-	position:relative;
-	left: 200px;
-	}
-	figure.foto-principal figcaption {
-	position absolute;
-	}
 
