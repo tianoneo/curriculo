@@ -1,19 +1,22 @@
 @charset "UTF-8";
 
-	p{
+p{
 	text-align: justify;
 	text-indent: 20px;
 	}
-        body{
+body{
         color:black;
 	background-image:url("fundobranco.jpg");	
 	background-size: 100%;
         }
-        h1{
+h1{
         text-shadow: 2px 2px 2px blue;
         }
-        h2{
+h2{
         color:blue;
         text-shadow: 5px 5px 10px blue;
         }
+header#cabecalho {
+text-align: center;
+}
 
