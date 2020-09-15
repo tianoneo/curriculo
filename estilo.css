@@ -16,4 +16,8 @@
         color:blue;
         text-shadow: 5px 5px 10px blue;
         }
-
+header#cabecalho p {
+text-decoration: uppercase;
+color: blue;
+box-shadow: 2px 2px 3px green; 
+}
