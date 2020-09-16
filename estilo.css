@@ -22,7 +22,11 @@ text-align: center;
 }
 
 header#cabecalho h2 {
-margin-top:-40px;
+margin-top:-20px;
+margin-bottom: -20px;
+}
 
+header#cabecalho h1 {
+margin-top:-20px;
 }
 
