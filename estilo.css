@@ -18,5 +18,11 @@ h2{
         }
 header#cabecalho {
 text-align: center;
+	
+}
+
+header#cabecalho h2 {
+top: -3px;
+
 }
 
