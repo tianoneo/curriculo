@@ -43,4 +43,8 @@ text-align: center;
 margin: auto;
 }
 
+#cabecalho #linkedin a:hover {
+text-decoration: underline;
+}
+
 
