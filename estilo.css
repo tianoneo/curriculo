@@ -37,4 +37,9 @@ h3#contato {
 color: blue;
 }
 
+#dados {
+display: inline-block;
+text-align: center;
+}
+
 
