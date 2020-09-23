@@ -36,3 +36,7 @@ text-decoration: none;
 #contato {
 color: blue;
 }
+
+#dados {
+display: inline-block;
+}
