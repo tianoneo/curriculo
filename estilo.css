@@ -37,9 +37,11 @@ h3#contato {
 color: blue;
 }
 
-#dados {
-text-align: center;
-}
 
+#dados {
+display: inline-block;
+text-align: center;
+
+}
 
 
